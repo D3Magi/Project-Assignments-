@@ -1,1 +1,0 @@
-Decipher the price range of mobile devices based on their various specifications, using the Decition Tree Classifier, Random forest, XGboost, and Logistic regression models. Checking for the model accuracy, f1, and recall score whilst visualizing using the seaborn, confusion matrix, and boxplot. 
